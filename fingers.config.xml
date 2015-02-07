@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<fingers xmlns="http://tempuri.org/fingers.config.xsd">
+  <TableKeypad>
+    <Filename>fingers.keypad.xml</Filename>
+    <LastLevel>11</LastLevel>
+    <LevelUpBySpeed>150</LevelUpBySpeed>
+    <LevelDownBySpeed>50</LevelDownBySpeed>
+    <LevelDownByError>7</LevelDownByError>
+    <CharPerMinute>205</CharPerMinute>
+    <ErrorPerMinute>3</ErrorPerMinute>
+    <Fontname>DejaVu Sans</Fontname>
+    <Fontsize>24</Fontsize>
+  </TableKeypad>
+  <TableNumpad>
+    <Filename>fingers.numpad.xml</Filename>
+    <LastLevel>1</LastLevel>
+    <LevelUpBySpeed>150</LevelUpBySpeed>
+    <LevelDownBySpeed>50</LevelDownBySpeed>
+    <LevelDownByError>5</LevelDownByError>
+    <CharPerMinute>0</CharPerMinute>
+    <ErrorPerMinute>0</ErrorPerMinute>
+    <Fontname>Liberation Sans Narrow</Fontname>
+    <Fontsize>24</Fontsize>
+  </TableNumpad>
+</fingers>
