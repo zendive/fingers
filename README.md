@@ -1,6 +1,8 @@
 # Fingers
 Touch typing training
 
+![image](https://github.com/zendive/fingers/assets/3756473/a4926540-b48e-44f6-b294-84bc409e48a8)
+
 ## About
 This simple programm is born to improve my typing skills. If it will do the same for You, it will be not just your victory but mine too :)
 
